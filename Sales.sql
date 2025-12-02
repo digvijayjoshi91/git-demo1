@@ -1,0 +1,4 @@
+CREATE TABLE Sales (
+    Id INT PRIMARY KEY,
+    Amount DECIMAL(10,2)
+);
